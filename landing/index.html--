@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<meta charset="UTF-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+	<title>Winztime</title>
+
+	<meta name="keywords" content="" />
+
+	<meta name="description" content="" />
+
+	<link rel="icon" type="image/x-icon" href="assets/images/favicon.png" />
+
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300&display=swap" rel="stylesheet">
+
+	<link href="assets/fontawesome/css/all.css" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="assets/css/default.css"/>
+
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+
+
+
+<!--[if lt IE 9]>
+
+<script type='text/javascript' src='assets/js/html5.js'></script>
+
+<![endif]-->
+
+
+
+</head>
+
+<body>
+
+	<noscript>
+
+		<div id="jqcheck"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB60lEQVQ4T2NkwAHePzrxf3ebL1jWp/0oA5egGiM2pVgFQQq31uj/N/ANZvj+8T3D7aNHGDwbTxNvwKtbO/9f3dLHYJ+axfDn5w+GI/NnMRhFtTEISJtjGIIh8Pv39/87ak0ZzCLiGMRUNMCufnLxDMOlrZsY3JtOMrCwsKPowTDg3tGZ/59f2sVgFRvPkO+bAzZgwsZJDEcXzWNQtIlikDGIwG3Az+9v/+9qsGOwTc1h4JeQhhswcfMUhrcP7zEcXzyXwb3xMAMbuwDcEBTTzi7P/s/M8IFB3zccbDPMBSADQODs2sUMzFwyDIah/ZgGfHt/7/+BvmAGm+RsBl4RMawGfHr5jOHowlkMjiUbGDj55MCGwE060Of1X0RZi0Hb2Q4e3eguAElc2X2A4e2DmwwOhVsRBnx6cfH/yXm5DFZxyQxcAoJ4Dfj24T3DsUVzGcwSJjLwSxkygk3ZVmv4X805gkHZRBNXwkQRv3/+NsP1nUsYvFvOMzI+PLXo/73DSxgsouIYOHj5UBRi8wJIwY8vnxlOLV/CIGcewsC4vkDhv01yLoOIoiqG7bgMACn88Owxw8HpvQyMGwqV/vs19TMwQnxDEthYW8DAeGCC3/9XN46TpBGmWEzDkoHx06dP/z9//kyWAby8vAwAcza2SBMOSCMAAAAASUVORK5CYII=" alt="Javascript is disabled" width="16" height="16"> Javascript is disabled. Please enable it for better working experience.</div>
+
+	</noscript>
+
+
+
+	<header class="header">
+
+		<div class="container">
+
+			<div class="row">
+
+				<div class="col-md-12">
+
+					<!-- <a href="/" title="" class="logo"><img src="assets/images/logo.png"></a> -->
+
+				</div>
+
+			</div><!-- LOGBAR END HERE -->
+
+		</div>
+
+		<div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div> <div class="circle-container"> <div class="circle"></div> </div>
+
+	</header><!-- HEADER END HERE -->
+
+
+
+
+
+	<section class="main-section home-section-five">
+
+		<div class="container">
+
+			<div class="contactForm">
+
+				<div class="row align-center d-flex justify-content-center">
+
+					<div class="col-md-4">
+
+						<figure>
+
+							<img src="assets/images/mas4.PNG">
+
+						</figure>
+
+					</div>
+
+					<div class="col-md-4">
+
+						<a href="/" title="" class="logo"><img src="assets/images/logo.png"></a>
+
+						<div class="contactFormWrap">
+
+							<form>
+
+								<div class="row">
+
+									<div class="col-md-12">
+
+										<div class="form-group">
+
+											<input type="text" name="name" placeholder="Name" class="form-control">
+
+										</div>
+
+									</div>
+
+									<div class="col-md-12">
+
+										<div class="form-group">
+
+											<input type="text" name="Phone" placeholder="Phone" class="form-control">
+
+										</div>
+
+									</div>
+
+									<div class="col-md-12">
+
+										<div class="form-group">
+
+											<input type="email" name="email" placeholder="Email" class="form-control">
+
+										</div>
+
+									</div>
+
+									<div class="col-md-12">
+
+										<button type="submit" name="submitBtn" value="send" class="btn"><span>Send</span></button>
+
+									</div>
+
+								</div>
+
+							</form>
+
+						</div>
+
+						<ul class="socialSide socialSide2 text-center">
+
+							<li><a href="javascript:;"><i class="fab fa-instagram"></i></a></li>
+
+							<li><a href="javascript:;"><i class="fab fa-facebook-f"></i></a></li>
+
+							<li><a href="javascript:;"><i class="fab fa-youtube"></i></a></li>
+
+							<li><a href="javascript:;"><i class="fab fa-twitter"></i></a></li>
+
+						</ul>
+
+					</div>
+
+					<!-- <div class="col-md-4">
+
+						<figure>
+
+							<img src="assets/images/mas4.png">
+
+						</figure>
+
+					</div> -->
+
+				</div>
+
+			</div>
+
+		</div>
+
+
+
+	</section>
+
+
+
+
+
+	<!-- <footer class="footer">
+
+		<div class="copy">
+
+			<div class="container">
+
+				<div class="row">
+
+					<div class="col-md-4">
+
+						<p class="text-start">© 2021 Powered by <a href="javascript:;">Winztime.</a></p>
+
+					</div>
+
+					<div class="col-md-4">
+
+						<ul class="socialSide socialSide2 text-center">
+
+							<li><a href="javascript:;"><i class="fab fa-instagram"></i></a></li>
+
+							<li><a href="javascript:;"><i class="fab fa-facebook-f"></i></a></li>
+
+							<li><a href="javascript:;"><i class="fab fa-youtube"></i></a></li>
+
+							<li><a href="javascript:;"><i class="fab fa-twitter"></i></a></li>
+
+						</ul>
+
+					</div>
+
+					<div class="col-md-4">
+
+						<p class="text-end">Designed and Developed by <a href="https://www.digitalsetgo.com/">DigitalsetGo</a>.</p>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</footer> -->
+
+	<script defer type="text/javascript" src="assets/fontawesome/js/all.js"></script>
+
+	<script type="text/javascript" src="assets/js/xJquery.js"></script>
+
+	<script defer type="text/javascript" src="assets/js/script.js"></script>
+
+	<div class="cursor"></div>
+
+</body>
+
+</html>
+

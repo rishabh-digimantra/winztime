@@ -1,0 +1,5 @@
+[22-Aug-2021 11:42:29 UTC] PHP Warning:  Use of undefined constant none - assumed 'none' (this will throw an Error in a future version of PHP) in /home/winztime/public_html/config/session.php on line 195
+[29-Aug-2021 11:16:04 UTC] PHP Warning:  Use of undefined constant none - assumed 'none' (this will throw an Error in a future version of PHP) in /home/winztime/public_html/config/session.php on line 195
+[30-Aug-2021 06:47:25 UTC] PHP Warning:  Use of undefined constant none - assumed 'none' (this will throw an Error in a future version of PHP) in /home/winztime/public_html/config/session.php on line 195
+[30-Aug-2021 06:47:35 UTC] PHP Warning:  Use of undefined constant none - assumed 'none' (this will throw an Error in a future version of PHP) in /home/winztime/public_html/config/session.php on line 195
+[30-Aug-2021 06:58:20 UTC] PHP Warning:  Use of undefined constant none - assumed 'none' (this will throw an Error in a future version of PHP) in /home/winztime/public_html/config/session.php on line 195
